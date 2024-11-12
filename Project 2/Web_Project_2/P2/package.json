@@ -1,0 +1,11 @@
+{
+  "name": "steam-game-search",
+  "version": "1.0.0",
+  "description": "A Steam game search utility",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay",
+  "license": "ISC"
+}
